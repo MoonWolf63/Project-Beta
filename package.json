@@ -1,0 +1,15 @@
+{
+  "name": "projectbeta",
+  "version": "0.0.1",
+  "description": "A discord ticket bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MoonWolf63",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mysql": "^2.18.1"
+  }
+}
